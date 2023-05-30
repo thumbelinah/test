@@ -47,7 +47,7 @@ button:focus {
 #time-left {
   font-size: 70px;
   text-align: center;
-  background-color: rgb(150,180,175);
+  background-color: rgb(207, 181, 218);
   padding: 20px;
   border-radius: 20px;
   box-shadow: 3px 3px rgb(121, 145, 141) inset;
